@@ -1,0 +1,4 @@
+The IPython notebook 'Advanced_Image_Processing.ipynb' can be run both on local system or on Google Colab. Please make sure to convert the flag `COLAB` as True before running it on Colab.
+The outputs for the local runtime would be stored in 'outputs' directory.
+For Colab, please upload 'common.zip' from my submission.
+Question 4 might take very long to run on local.   

@@ -9,6 +9,7 @@ The IPython notebook "Basic_Image_Processing.ipynb" can be run on Colab. Please 
 **Tasks:** [Link](https://github.com/Vinit-source/Computer-vision-tasks/blob/main/Basic%20Image%20Processing/Questions.pdf)    
 **Code:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vinit-source/Computer-vision-tasks/blob/main/Basic%20Image%20Processing/Basic_Image_Processing.ipynb)    
 **Report:** [Link](https://github.com/Vinit-source/Computer-vision-tasks/blob/main/Basic%20Image%20Processing/Report.pdf)    
+Refer [here](https://github.com/Vinit-source/Computer-vision-tasks/blob/main/Basic%20Image%20Processing/DWT_Example_slides.pdf) for demo of Discrete Wavelet Tansforms.
 
 ## Advanced Image Processing
 
@@ -21,4 +22,4 @@ Question 4 might take very long to run on local.
 **Tasks:** [Link](https://github.com/Vinit-source/Computer-vision-tasks/blob/main/Advanced%20Image%20Processing/Questions.pdf)    
 **Code:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vinit-source/Computer-vision-tasks/blob/main/Advanced%20Image%20Processing/Advanced_Image_Processing.ipynb)    
 **Report:** [Link](https://github.com/Vinit-source/Computer-vision-tasks/blob/main/Advanced%20Image%20Processing/Report.pdf)    
-
+**See Also:** [Homomorphic Filtering](https://github.com/Vinit-source/Computer-vision-tasks/blob/main/Advanced%20Image%20Processing/Homomorphic_Filtering.pdf)

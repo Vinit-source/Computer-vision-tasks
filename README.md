@@ -4,7 +4,7 @@ This repository is a compilation of image processing tasks performed by me durin
 ## Basic Image Processing
 
 **Usage:**    
-The IPython notebook "Basic_Image_Processing.ipynb" can be run on Colab. Please upload all the image files in [this]() folder before running.
+The IPython notebook "Basic_Image_Processing.ipynb" can be run on Colab. Please upload all the image files from [this](https://github.com/Vinit-source/Computer-vision-tasks/tree/main/Basic%20Image%20Processing) folder before running.
 
 **Tasks:** [Link](https://github.com/Vinit-source/Computer-vision-tasks/blob/main/Basic%20Image%20Processing/Questions.pdf)    
 **Code:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vinit-source/Computer-vision-tasks/blob/main/Basic%20Image%20Processing/Basic_Image_Processing.ipynb)    
